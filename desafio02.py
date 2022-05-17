@@ -1,0 +1,5 @@
+print ('Desafio #02')
+dia= input ('Qual o dia do seu nascimento?')
+mes= input ('Qual o mês do seu nascimento?')
+ano= input ('qual o ano do seu nascimento?')
+print ('Confirme sua data de nascimento por favor. Está correta?', dia, 'de', mes, 'do ano de', ano)
